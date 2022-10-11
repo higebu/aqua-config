@@ -1,0 +1,15 @@
+name: Run aqua i
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  aqua:
+    runs-on: work-1
+    steps:
+      - uses: actions/checkout@v3
+      - uses: aquaproj/aqua-installer@v1.1.2
+        with:
+          aqua_version: v1.20.1
