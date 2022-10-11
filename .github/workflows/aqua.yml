@@ -13,4 +13,4 @@ jobs:
       - uses: aquaproj/aqua-installer@v1.1.2
         with:
           aqua_version: v1.20.1
-      - run: aqua i
+          aqua_opts: ""
