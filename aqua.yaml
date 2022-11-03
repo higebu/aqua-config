@@ -21,7 +21,7 @@ packages:
 - name: grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2@v2.13.0
 - name: grafana/k6@v0.41.0
 - name: cloudflare/cfssl@v1.6.3
-- name: open-policy-agent/opa@v0.45.0
+- name: open-policy-agent/opa@v0.46.1
 - name: kubernetes/kubectl@v1.25.3
 - name: grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway@v2.13.0
 - name: x-motemen/ghq@v1.3.0
