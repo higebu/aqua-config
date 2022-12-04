@@ -32,5 +32,5 @@ packages:
 - name: aws/aws-cli@2.8.1
 - name: tfutils/tfenv@v3.0.0
 - name: kubernetes-sigs/kustomize@kustomize/v4.5.7
-- name: denoland/deno@v1.27.2
+- name: denoland/deno@v1.28.3
 - name: kyoh86/richgo@v0.3.10
