@@ -3,7 +3,7 @@
 # https://aquaproj.github.io/
 registries:
 - type: standard
-  ref: v3.102.0 # renovate: depName=aquaproj/aqua-registry
+  ref: v3.103.0 # renovate: depName=aquaproj/aqua-registry
 packages:
 - name: golang/tools/goimports@v0.3.0
 - name: GoogleCloudPlatform/berglas@v1.0.1
