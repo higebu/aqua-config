@@ -18,12 +18,12 @@ packages:
 - name: grpc/grpc-go/protoc-gen-go-grpc@cmd/protoc-gen-go-grpc/v1.2.0
 - name: bufbuild/buf@v1.11.0
 - name: junegunn/fzf@0.35.1
-- name: grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2@v2.13.0
+- name: grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2@v2.15.0
 - name: grafana/k6@v0.42.0
 - name: cloudflare/cfssl@v1.6.3
 - name: open-policy-agent/opa@v0.47.4
 - name: kubernetes/kubectl@v1.26.0
-- name: grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway@v2.13.0
+- name: grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway@v2.15.0
 - name: x-motemen/ghq@v1.3.0
 - name: gohugoio/hugo@v0.108.0
 - name: cli/cli@v2.20.2
