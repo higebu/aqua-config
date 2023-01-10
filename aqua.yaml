@@ -14,7 +14,7 @@ packages:
 - name: golang.org/x/tools/gopls@v0.10.1
 - name: golang.org/x/perf/cmd/benchstat@v0.0.0-20220920022801-e8d778a60d07
 - name: golang/tools/godoc@v0.4.0
-- name: google/yamlfmt@v0.6.0
+- name: google/yamlfmt@v0.7.1
 - name: grpc/grpc-go/protoc-gen-go-grpc@cmd/protoc-gen-go-grpc/v1.2.0
 - name: bufbuild/buf@v1.11.0
 - name: junegunn/fzf@0.35.1
