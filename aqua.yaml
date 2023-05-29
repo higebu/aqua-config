@@ -22,7 +22,7 @@ packages:
 - name: grafana/k6@v0.42.0
 - name: cloudflare/cfssl@v1.6.3
 - name: open-policy-agent/opa@v0.53.0
-- name: kubernetes/kubectl@v1.26.0
+- name: kubernetes/kubectl@v1.27.2
 - name: grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway@v2.15.0
 - name: x-motemen/ghq@v1.3.0
 - name: gohugoio/hugo@v0.112.5
