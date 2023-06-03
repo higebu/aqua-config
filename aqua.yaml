@@ -9,7 +9,7 @@ packages:
 - name: GoogleCloudPlatform/berglas@v1.0.1
 - name: golang/mock@v1.6.0
 - name: protocolbuffers/protobuf-go/protoc-gen-go@v1.28.1
-- name: golangci/golangci-lint@v1.50.1
+- name: golangci/golangci-lint@v1.53.2
 - name: golang/tools/gorename@v0.4.0
 - name: golang.org/x/tools/gopls@v0.10.1
 - name: golang.org/x/perf/cmd/benchstat@v0.0.0-20220920022801-e8d778a60d07
