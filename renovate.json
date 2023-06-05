@@ -1,5 +1,9 @@
 {
   "extends": [
-    "github>aquaproj/aqua-renovate-config#1.6.0"
-  ]
+    "github>aquaproj/aqua-renovate-config#1.6.0",
+    ":prHourlyLimitNone",
+    ":prImmediately",
+    ":automergeAll"
+  ],
+  "prConcurrentLimit": 1
 }
