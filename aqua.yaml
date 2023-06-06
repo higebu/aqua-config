@@ -34,3 +34,5 @@ packages:
 - name: denoland/deno@v1.34.1
 - name: kyoh86/richgo@v0.3.12
 - name: dominikh/go-tools/staticcheck@2023.1.3
+- name: go-jira/jira@v1.0.27
+- name: gopasspw/gopass@v1.15.5
