@@ -17,7 +17,7 @@ packages:
 - name: google/yamlfmt@v0.9.0
 - name: grpc/grpc-go/protoc-gen-go-grpc@cmd/protoc-gen-go-grpc/v1.3.0
 - name: bufbuild/buf@v1.21.0
-- name: junegunn/fzf@0.41.1
+- name: junegunn/fzf@0.42.0
 - name: grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2@v2.16.0
 - name: grafana/k6@v0.44.1
 - name: cloudflare/cfssl@v1.6.4
