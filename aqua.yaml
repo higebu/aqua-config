@@ -30,7 +30,7 @@ packages:
 - name: open-policy-agent/conftest@v0.43.1
 - name: aws/aws-cli@2.8.1
 - name: tfutils/tfenv@v3.0.0
-- name: kubernetes-sigs/kustomize@kustomize/v5.0.3
+- name: kubernetes-sigs/kustomize@kustomize/v5.1.0
 - name: denoland/deno@v1.34.3
 - name: kyoh86/richgo@v0.3.12
 - name: dominikh/go-tools/staticcheck@2023.1.3
