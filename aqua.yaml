@@ -21,7 +21,7 @@ packages:
 - name: kubernetes/kubectl@v1.28.4
 - name: x-motemen/ghq@v1.4.2
 - name: gohugoio/hugo@v0.119.0
-- name: cli/cli@v2.37.0
+- name: cli/cli@v2.39.1
 - name: open-policy-agent/conftest@v0.46.0
 - name: aws/aws-cli@2.13.36
 - name: tfutils/tfenv@v3.0.0
