@@ -15,7 +15,7 @@ packages:
 - name: google/yamlfmt@v0.10.0
 - name: bufbuild/buf@v1.29.0
 - name: junegunn/fzf@0.46.0
-- name: grafana/k6@v0.48.0
+- name: grafana/k6@v0.49.0
 - name: cloudflare/cfssl@v1.6.4
 - name: open-policy-agent/opa@v0.61.0
 - name: kubernetes/kubectl@v1.29.1
