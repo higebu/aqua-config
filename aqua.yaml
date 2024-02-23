@@ -28,7 +28,7 @@ packages:
 - name: kubernetes-sigs/kustomize@kustomize/v5.3.0
 - name: denoland/deno@v1.40.5
 - name: kyoh86/richgo@v0.3.12
-- name: dominikh/go-tools/staticcheck@2023.1.6
+- name: dominikh/go-tools/staticcheck@2023.1.7
 - name: go-jira/jira@v1.0.27
 - name: gopasspw/gopass@v1.15.11
 - name: golang.org/x/tools/gopls@v0.14.2
