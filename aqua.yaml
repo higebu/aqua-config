@@ -31,4 +31,4 @@ packages:
 - name: dominikh/go-tools/staticcheck@2023.1.7
 - name: go-jira/jira@v1.0.27
 - name: gopasspw/gopass@v1.15.11
-- name: golang.org/x/tools/gopls@v0.14.2
+- name: golang.org/x/tools/gopls@v0.15.0
