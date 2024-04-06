@@ -30,5 +30,5 @@ packages:
 - name: kyoh86/richgo@v0.3.12
 - name: dominikh/go-tools/staticcheck@2023.1.7
 - name: go-jira/jira@v1.0.27
-- name: gopasspw/gopass@v1.15.12
+- name: gopasspw/gopass@v1.15.13
 - name: golang.org/x/tools/gopls@v0.15.2
