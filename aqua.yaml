@@ -22,7 +22,7 @@ packages:
 - name: x-motemen/ghq@v1.6.1
 - name: gohugoio/hugo@v0.128.2
 - name: cli/cli@v2.52.0
-- name: open-policy-agent/conftest@v0.53.0
+- name: open-policy-agent/conftest@v0.54.0
 - name: aws/aws-cli@2.17.9
 - name: tfutils/tfenv@v3.0.0
 - name: kubernetes-sigs/kustomize@kustomize/v5.4.2
