@@ -13,7 +13,7 @@ packages:
 - name: golang/tools/godoc@v0.29.0
 - name: google/yamlfmt@v0.16.0
 - name: bufbuild/buf@v1.50.0
-- name: junegunn/fzf@v0.59.0
+- name: junegunn/fzf@v0.60.0
 - name: grafana/k6@v0.57.0
 - name: cloudflare/cfssl@v1.6.5
 - name: open-policy-agent/opa@v1.1.0
