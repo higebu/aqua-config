@@ -22,7 +22,7 @@ packages:
 - name: gohugoio/hugo@v0.144.1
 - name: cli/cli@v2.67.0
 - name: open-policy-agent/conftest@v0.57.0
-- name: aws/aws-cli@2.24.6
+- name: aws/aws-cli@2.24.7
 - name: tfutils/tfenv@v3.0.0
 - name: kubernetes-sigs/kustomize@kustomize/v5.6.0
 - name: denoland/deno@v2.1.10
