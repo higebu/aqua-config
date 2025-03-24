@@ -30,5 +30,5 @@ packages:
 - name: dominikh/go-tools/staticcheck@2025.1.1
 - name: gopasspw/gopass@v1.15.15
 - name: ankitpokhrel/jira-cli@v1.5.2
-- name: evilmartians/lefthook@v1.11.3
+- name: evilmartians/lefthook@v1.11.4
 # - name: golang.org/x/tools/gopls@gopls/v0.17.1
