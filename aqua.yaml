@@ -19,7 +19,7 @@ packages:
 - name: open-policy-agent/opa@v1.3.0
 - name: kubernetes/kubectl@v1.32.3
 - name: x-motemen/ghq@v1.8.0
-- name: gohugoio/hugo@v0.146.1
+- name: gohugoio/hugo@v0.146.2
 - name: cli/cli@v2.69.0
 - name: open-policy-agent/conftest@v0.58.0
 - name: aws/aws-cli@2.26.0
