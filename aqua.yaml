@@ -20,7 +20,7 @@ packages:
 - name: kubernetes/kubectl@v1.33.1
 - name: x-motemen/ghq@v1.8.0
 - name: gohugoio/hugo@v0.147.6
-- name: cli/cli@v2.73.0
+- name: cli/cli@v2.74.0
 - name: open-policy-agent/conftest@v0.60.0
 - name: aws/aws-cli@2.27.25
 - name: tfutils/tfenv@v3.0.0
