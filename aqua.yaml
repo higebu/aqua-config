@@ -30,6 +30,6 @@ packages:
 - name: dominikh/go-tools/staticcheck@2025.1.1
 - name: gopasspw/gopass@v1.15.16
 - name: ankitpokhrel/jira-cli@v1.6.0
-- name: evilmartians/lefthook@v1.12.2
+- name: evilmartians/lefthook@v1.12.3
 - name: astral-sh/uv@0.8.9
 - name: astral-sh/rye@0.44.0
