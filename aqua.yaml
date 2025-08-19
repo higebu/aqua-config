@@ -31,5 +31,5 @@ packages:
 - name: gopasspw/gopass@v1.15.16
 - name: ankitpokhrel/jira-cli@v1.6.0
 - name: evilmartians/lefthook@v1.12.3
-- name: astral-sh/uv@0.8.11
+- name: astral-sh/uv@0.8.12
 - name: astral-sh/rye@0.44.0
