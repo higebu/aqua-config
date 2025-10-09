@@ -12,7 +12,7 @@ packages:
 - name: golang.org/x/perf/cmd/benchstat@v0.0.0-20220920022801-e8d778a60d07
 - name: golang/tools/godoc@v0.29.0
 - name: google/yamlfmt@v0.17.2
-- name: bufbuild/buf@v1.57.2
+- name: bufbuild/buf@v1.58.0
 - name: junegunn/fzf@v0.65.2
 - name: grafana/k6@v1.3.0
 - name: cloudflare/cfssl@v1.6.5
