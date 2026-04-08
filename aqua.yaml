@@ -16,7 +16,7 @@ packages:
 - name: junegunn/fzf@v0.71.0
 - name: grafana/k6@v1.7.1
 - name: cloudflare/cfssl@v1.6.5
-- name: open-policy-agent/opa@v1.15.1
+- name: open-policy-agent/opa@v1.15.2
 - name: kubernetes/kubectl@v1.35.3
 - name: x-motemen/ghq@v1.9.4
 - name: gohugoio/hugo@v0.160.0
